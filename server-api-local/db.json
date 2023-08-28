@@ -1,0 +1,15 @@
+
+
+{
+    "user":[
+        {"id":111,"username":"Trang","password":123},
+        {"id":222,"username":"Trang Nguyen","password":235},
+        {"id":444,"username":" Huyen Trang","password":125}
+        
+    ],
+    "students":[
+        {"student":"SV1001","studentName":"TRang cute","age":12},
+        {"student":"SV1002","studentName":"TRang kull","age":15},
+        {"student":"SV1003","studentName":"TRang sieu cute","age":16}
+    ]
+}
